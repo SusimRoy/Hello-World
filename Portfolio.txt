@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is Title</title>
+</head>
+<body>
+    <h1>My Portfolio</h1>
+    <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedo97waleed.artstation.com%2Fprojects%2FgJgVE8&psig=AOvVaw2OC6ZZmzRQrq9Xl2ZOm9kV&ust=1610269913382000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCPCPjpLBju4CFQAAAAAdAAAAABAL>  <!--Add Your own image here-->
+    <h3>Name : Susim Mukul Roy</h3>
+    <h3>Department : Artificial Intelligence and Data Science</h3>
+    <h3>About Me: I want to learn as many new things as possible and contribute to humanity in any way i can. In short, i am just a curious person.</h3>
+   <h3>Learning Now : Python, game dev, c++, ROS</h3>
+   <h3>Hobbies : Watching anime, playing TT, Singing/listening to music, star-gazing</h3>
+    
+</body>
+</html>
